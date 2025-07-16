@@ -33,5 +33,5 @@ SmartLook is a full-featured unisex salon management system built with Django. I
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Dhruv210705/Smartlook(Salon Management System).git](https://github.com/Dhruv210705/Smartlook-Salon-Management-System-/tree/master)
+   git clone https://github.com/Dhruv210705/Smartlook-Salon-Management-System-
    cd smartlook
